@@ -1,0 +1,14 @@
+*.tsv
+*.log
+.project
+.shell_history
+*.ipr
+*.iws
+*.iml
+.idea
+target
+*.csv
+.DS_Store
+.settings
+*.gz
+
