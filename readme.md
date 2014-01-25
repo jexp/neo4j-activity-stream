@@ -7,3 +7,5 @@ MATCH (head:ActivityHead)-[:NEXT*]->(activity)-[:IN_FORUM]->
 RETURN author.name, activity.message, forum.name
 LIMIT 20
 ````
+
+![](https://dl.dropboxusercontent.com/u/14493611/data_modeling_activity_stream.png)
