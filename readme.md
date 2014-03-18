@@ -28,4 +28,4 @@ The ressource has to be configured in `conf/neo4j-server.properties` as
 
     org.neo4j.server.thirdparty_jaxrs_classes=org.neo4j.example.activity=/api 
     
-It is then available for the front-end at the URL `http://host:7474/api/activities/{username}` verfügbar.
+It is then available for the front-end at the URL `http://host:7474/api/activities/{username}`.
